@@ -109,7 +109,3 @@ Synchronous IPC with CodeStreamX is open-source and operates under the MIT Licen
 Embark on a journey through the realms of programming, data communication, and synchronization with Synchronous IPC with CodeStreamX.
 
 Feel free to use this updated project description as a template and customize it further as needed.
-
-
-<h3>Views</h3>
-<img src="https://profile-counter.glitch.me/jwt/count.svg">
