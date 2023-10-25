@@ -102,9 +102,8 @@ We invite contributions from the community to enhance and expand Synchronous IPC
 
 ## License
 
-Synchronous IPC with CodeStreamX is open-source and operates under the MIT License. Refer to the [LICENSE](LICENSE) file for comprehensive licensing
+Synchronous IPC with CodeStreamX is open-source and operates under the MIT License. Refer to the [LICENSE](LICENSE) file for comprehensive licensing details.
 
- details.
 
 Embark on a journey through the realms of programming, data communication, and synchronization with Synchronous IPC with CodeStreamX.
 
